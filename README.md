@@ -9,6 +9,8 @@ Collection of all useful (from my perspective) for Threat Hunting resources: blo
 
 ### Trainings
 
+## Detection Engineering
+
 ## MITRE ATT&CK TTPs
 
 ## RedTeaming
