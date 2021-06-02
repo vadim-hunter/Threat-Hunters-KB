@@ -5,6 +5,6 @@ Collection of all useful (from my perspective) for Threat Hunting resources: blo
 
 ## Windows Internals & Security
 
-# Books
+### Books
 
-# Trainings
+### Trainings
