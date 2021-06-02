@@ -13,4 +13,4 @@ Collection of all useful (from my perspective) for Threat Hunting resources: blo
 
 ## MITRE ATT&CK TTPs
 
-## RedTeaming
+## Offensive Tradecraft
