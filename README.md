@@ -11,7 +11,9 @@ Collection of all useful (from my perspective) for Threat Hunting resources: blo
 
 ### Links
 
-## Threat Hunting
+## Active Directory
+
+### Books
 
 ### Trainings
 
@@ -19,6 +21,24 @@ Collection of all useful (from my perspective) for Threat Hunting resources: blo
 
 ### Blogs
 
+## Threat Hunting
+
+### Books
+
+### Trainings
+
+### Blogs
+
+### Labs
+
+### CTF
+
 ## TTPs
 
 ## Offensive Tradecraft
+
+### Books
+
+### Trainings
+
+### Blogs
