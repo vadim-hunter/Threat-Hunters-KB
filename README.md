@@ -9,8 +9,16 @@ Collection of all useful (from my perspective) for Threat Hunting resources: blo
 
 ### Trainings
 
-## Detection Engineering
+### Links
 
-## MITRE ATT&CK TTPs
+## Threat Hunting
+
+### Trainings
+
+### Labs
+
+### Blogs
+
+## TTPs
 
 ## Offensive Tradecraft
