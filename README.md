@@ -6,8 +6,13 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 ## Windows Internals & Security
 
 ### Books
+- Windows Security Monitoring, Scenarios and Patterns (Andrei Miroshnikov)
+- Windows Internals (Part 1,2)
+- Windows System Programming Part 1,2 (Pavel Yosifovich)
+- Windows Kernel Programming (Pavel Yosifovich)
 
 ### Trainings
+- Windows Internals (Pavel Yosifovich)
 
 ### Links
 
