@@ -13,6 +13,12 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 
 ### Trainings
 - Windows Internals (Pavel Yosifovich)
+- Windows Process Injection for Red-Blue Teams (PentesterAcademy, Pavel Yosifovich)
+- WinDbg Fundamentals: User Mode (PentesterAcademy, Pavel Yosifovich)
+- WinDbg Fundamentals: Kernel Mode (PentesterAcademy, Pavel Yosifovich)
+- Windows API Exploitation Recipes: Processes, Tokens and Memory RW (PentesterAcademy)
+- WMI Attacks and Defense (PentesterAcademy, Nikhil Mittal)
+- Windows System Programming: Fundamentals (PentesterAcademy, Pavel Yosifovich)
 
 ### Links
 
@@ -21,8 +27,13 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 ### Books
 
 ### Trainings
+- Attacking and Defending Active Directory (PentesterAcademy, Nikhil Mittal)
 
 ### Labs
+- Attacking and Defending Active Directory (PentesterAcademy)
+- Advanced Red Team Lab (PentesterAcademy, Nikhil Mittal)
+- Global Central Bank: An Enterprise Cyber Range (PentesterAcademy, Nikhil Mittal)
+- Attacking Active Directory with Linux (PentesterAcademy, Nikhil Mittal)
 
 ### Blogs
 
@@ -52,3 +63,9 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 
 ### Books
 - The Linux Programming Interface: A Linux and UNIX System Programming Handbook (Michael Kerrisk)
+
+## Containers Security
+
+## Cloud Security
+
+## Microsoft Azure
