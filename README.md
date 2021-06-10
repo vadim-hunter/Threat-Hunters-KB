@@ -66,6 +66,6 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 
 ## Containers Security
 
-## Cloud Security
+## Cloud - Microsoft Azure
 
-## Microsoft Azure
+## Cloud - AWS
