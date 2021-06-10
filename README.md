@@ -49,6 +49,11 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 
 ### CTF
 
+### Links
+- https://cyberpolygon.com/materials/threat-hunting-why-might-you-need-it/
+- https://cyberpolygon.com/materials/threat-hunting-in-action/
+- https://cyberpolygon.com/materials/hunting-for-advanced-tactics-techniques-and-procedures-ttps/
+
 ## TTPs
 
 ## Offensive Tradecraft
