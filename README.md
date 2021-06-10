@@ -47,3 +47,8 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 ### Trainings
 
 ### Blogs
+
+## Linux Internals & Security
+
+### Books
+- The Linux Programming Interface: A Linux and UNIX System Programming Handbook (Michael Kerrisk)
