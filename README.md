@@ -73,6 +73,7 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 ### Trainings
 - https://www.mdsec.co.uk/training/adversary-simulation-red-team-tactics/
 - https://specterops.io/how-we-help/training-offerings/adversary-tactics-red-team-operations
+- https://specterops.io/how-we-help/training-offerings/adversary-tactics-vulnerability-research-for-operators
 
 ### Blogs
 - https://posts.specterops.io/archive
@@ -90,6 +91,7 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 ### Books
 
 ### Trainings
+- https://specterops.io/how-we-help/training-offerings/adversary-tactics-mac-tradecraft
 
 ## Containers Security
 
