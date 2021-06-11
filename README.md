@@ -28,6 +28,7 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 
 ### Trainings
 - Attacking and Defending Active Directory (PentesterAcademy, Nikhil Mittal)
+- Advanced Windows Tradecraft (Nikhil Mittal)
 
 ### Labs
 - Attacking and Defending Active Directory (PentesterAcademy)
@@ -36,6 +37,10 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 - Attacking Active Directory with Linux (PentesterAcademy, Nikhil Mittal)
 
 ### Blogs
+- https://adsecurity.org/
+- http://www.harmj0y.net/blog/blog/
+- https://www.netspi.com/blog/technical/
+- https://posts.specterops.io/archive
 
 ## Threat Hunting
 
@@ -44,6 +49,9 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 ### Trainings
 
 ### Blogs
+- https://www.mdsec.co.uk/knowledge-centre/insights/
+- https://blog.f-secure.com/tag/f-secure-countercept/
+- https://posts.specterops.io/archive
 
 ### Labs
 
@@ -56,13 +64,15 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 
 ## TTPs
 
-## Offensive Tradecraft
+## Offensive Security/Red Teaming
 
 ### Books
 
 ### Trainings
+- https://www.mdsec.co.uk/training/adversary-simulation-red-team-tactics/
 
 ### Blogs
+- https://posts.specterops.io/archive
 
 ## Linux Internals & Security
 
@@ -72,5 +82,8 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 ## Containers Security
 
 ## Cloud - Microsoft Azure
+
+### Blogs
+- https://www.netspi.com/blog/technical/
 
 ## Cloud - AWS
