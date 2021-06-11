@@ -66,7 +66,7 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 
 ## TTPs
 
-## Offensive Security/Red Teaming
+## Offensive Security/RedTeam
 
 ### Books
 
@@ -89,6 +89,9 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 ## macOS Internals & Security
 
 ### Books
+- MacOS and iOS Internals, Volume I: User Mode
+- MacOS and iOS Internals, Volume II: Kernel Mode
+- MacOS and iOS Internals, Volume III: Security & Insecurity
 
 ### Trainings
 - https://specterops.io/how-we-help/training-offerings/adversary-tactics-mac-tradecraft
