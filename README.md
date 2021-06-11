@@ -47,6 +47,8 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 ### Books
 
 ### Trainings
+- https://specterops.io/how-we-help/training-offerings/adversary-tactics-detection
+- https://specterops.io/how-we-help/training-offerings/adversary-tactics-tradecraft-analysiss
 
 ### Blogs
 - https://www.mdsec.co.uk/knowledge-centre/insights/
@@ -70,14 +72,24 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 
 ### Trainings
 - https://www.mdsec.co.uk/training/adversary-simulation-red-team-tactics/
+- https://specterops.io/how-we-help/training-offerings/adversary-tactics-red-team-operations
 
 ### Blogs
 - https://posts.specterops.io/archive
+
+### People
+- 
 
 ## Linux Internals & Security
 
 ### Books
 - The Linux Programming Interface: A Linux and UNIX System Programming Handbook (Michael Kerrisk)
+
+## macOS Internals & Security
+
+### Books
+
+### Trainings
 
 ## Containers Security
 
