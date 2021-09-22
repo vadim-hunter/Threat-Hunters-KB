@@ -42,7 +42,7 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 - https://www.netspi.com/blog/technical/
 - https://posts.specterops.io/archive
 
-## Threat Hunting
+## Threat Hunting/MDR
 
 ### Books
 
@@ -54,6 +54,8 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 - https://www.mdsec.co.uk/knowledge-centre/insights/
 - https://blog.f-secure.com/tag/f-secure-countercept/
 - https://posts.specterops.io/archive
+- https://expel.io/blog/
+- https://www.fireeye.com/blog/threat-research.html
 
 ### Labs
 
@@ -74,13 +76,24 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 - https://www.mdsec.co.uk/training/adversary-simulation-red-team-tactics/
 - https://specterops.io/how-we-help/training-offerings/adversary-tactics-red-team-operations
 - https://specterops.io/how-we-help/training-offerings/adversary-tactics-vulnerability-research-for-operators
+- https://0xdarkvortex.dev/trainings/
+- https://www.netspi.com/training/
 
 ### Blogs
 - https://posts.specterops.io/archive
 - https://itm4n.github.io/
+- https://www.mdsec.co.uk/knowledge-centre/insights/
+- https://www.netspi.com/blog/technical/
+- https://blog.dylan.codes/
+- https://blog.xpnsec.com/
+- https://www.hexacorn.com/blog/
 
 ### People
-- 
+- Chetan Nayak (@NinjaParanoid)
+- Dominic Chell (@domchell)
+- @_batsec_
+- Adam Chester (@_xpn_)
+- Adam (@Hexacorn)
 
 ## Linux Internals & Security
 
