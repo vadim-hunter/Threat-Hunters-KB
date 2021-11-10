@@ -19,6 +19,8 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 - Windows API Exploitation Recipes: Processes, Tokens and Memory RW (PentesterAcademy)
 - WMI Attacks and Defense (PentesterAcademy, Nikhil Mittal)
 - Windows System Programming: Fundamentals (PentesterAcademy, Pavel Yosifovich)
+- https://www.udemy.com/course/windows-kernel-defense-and-attack-for-beginners-to-expert/
+- 
 
 ### Links
 
@@ -42,13 +44,14 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 - https://www.netspi.com/blog/technical/
 - https://posts.specterops.io/archive
 
-## Threat Hunting/MDR
+## Threat Hunting/Research/Detection Engineering
 
 ### Books
 
 ### Trainings
 - https://specterops.io/how-we-help/training-offerings/adversary-tactics-detection
-- https://specterops.io/how-we-help/training-offerings/adversary-tactics-tradecraft-analysiss
+- https://specterops.io/how-we-help/training-offerings/adversary-tactics-tradecraft-analysis
+- https://www.falconforce.nl/en/training/
 
 ### Blogs
 - https://www.mdsec.co.uk/knowledge-centre/insights/
@@ -116,5 +119,29 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 
 ### Blogs
 - https://www.netspi.com/blog/technical/
+- https://posts.specterops.io/search?q=azure
+- https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html#
+
+### Books
+- Exam Ref AZ-900 Microsoft Azure Fundamentals
+- Exam Ref AZ-500 Microsoft Azure Security Technologies
+
+### Trainings
+- https://www.netspi.com/training/dark-side-ops-azure-cloud-pentesting/
+- Breaching the Cloud Perimeter (Beau Bullock @dafthack)
+- Azure Pentesting (INE)
+- Microsoft Azure - Beginner's Guide + AZ-900 (Alan Rodrigues, Udemy)
+- AZ-500 Microsoft Azure Security Exam Certification (Alan Rodrigues, Udemy)
+
+
+## Office365
+
+### Blogs
+- https://o365blog.com/
+
+### Microsoft365
+
+### Blogs
+
 
 ## Cloud - AWS
