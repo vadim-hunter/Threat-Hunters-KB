@@ -155,3 +155,4 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 
 ### Trainings
 - Breaching the Cloud (Beau Bullock @dafthack)
+- AWS Security Bootcamp + Attack Defense AWS Labs (Pentester Academy)
