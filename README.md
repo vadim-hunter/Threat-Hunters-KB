@@ -137,8 +137,21 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 
 ## Cloud - AWS
 
-### Blogs
+### Blogs/Articles
+- https://expel.io/blog/find-amazon-s3-bucket-misconfigurations-fix-them/
+- https://expel.io/blog/how-to-build-useful-threat-emulation-exercise-aws/
+- https://expel.io/blog/following-cloudtrail-generating-aws-security-signals-sumo-logic/
+- https://expel.io/blog/making-sense-amazon-guardduty-alerts/
+- https://expel.io/blog/amazon-detective-fit-in-aws-security-landscape/
+- https://expel.io/blog/finding-evil-in-aws/
+- https://expel.io/blog/behind-the-scenes-expel-soc-alert-aws/
+- https://expel.io/blog/power-of-orchestration-how-we-automated-enrichments-aws-alerts/
+- https://expel.io/blog/mind-map-for-aws-investigations/
+- https://expel.io/blog/evilginx-into-cloud-detected-red-team-attack-in-aws/
 
 ### Books
+- AWS Certified Security Study Guide: Specialty (SCS-C01) Exam
+- AWS Certified SysOps Administrator Study Guide: Associate (SOA-C01) Exam 2nd Edition
 
 ### Trainings
+- Breaching the Cloud (Beau Bullock @dafthack)
