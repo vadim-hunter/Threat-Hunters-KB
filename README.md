@@ -138,7 +138,7 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 ## Cloud - AWS
 
 ### Blogs/Articles
-#### Expel.io
+#### Expel
 - https://expel.io/blog/find-amazon-s3-bucket-misconfigurations-fix-them/
 - https://expel.io/blog/how-to-build-useful-threat-emulation-exercise-aws/
 - https://expel.io/blog/following-cloudtrail-generating-aws-security-signals-sumo-logic/
