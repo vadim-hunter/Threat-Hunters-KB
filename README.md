@@ -121,27 +121,24 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 - https://www.netspi.com/blog/technical/
 - https://posts.specterops.io/search?q=azure
 - https://www.synacktiv.com/en/publications/azure-ad-introduction-for-red-teamers.html#
+- https://o365blog.com/
+- https://m365internals.com/
 
 ### Books
 - Exam Ref AZ-900 Microsoft Azure Fundamentals
 - Exam Ref AZ-500 Microsoft Azure Security Technologies
 
 ### Trainings
-- https://www.netspi.com/training/dark-side-ops-azure-cloud-pentesting/
-- Breaching the Cloud Perimeter (Beau Bullock @dafthack)
+- https://www.netspi.com/training/dark-side-ops-azure-cloud-pentesting (NetSPI)
+- Breaching the Cloud (Beau Bullock @dafthack)
 - Azure Pentesting (INE)
 - Microsoft Azure - Beginner's Guide + AZ-900 (Alan Rodrigues, Udemy)
 - AZ-500 Microsoft Azure Security Exam Certification (Alan Rodrigues, Udemy)
 
-
-## Office365
-
-### Blogs
-- https://o365blog.com/
-
-### Microsoft365
-
-### Blogs
-
-
 ## Cloud - AWS
+
+### Blogs
+
+### Books
+
+### Trainings
