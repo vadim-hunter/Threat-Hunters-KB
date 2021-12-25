@@ -138,6 +138,7 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 ## Cloud - AWS
 
 ### Blogs/Articles
+#### Expel.io
 - https://expel.io/blog/find-amazon-s3-bucket-misconfigurations-fix-them/
 - https://expel.io/blog/how-to-build-useful-threat-emulation-exercise-aws/
 - https://expel.io/blog/following-cloudtrail-generating-aws-security-signals-sumo-logic/
@@ -148,6 +149,10 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 - https://expel.io/blog/power-of-orchestration-how-we-automated-enrichments-aws-alerts/
 - https://expel.io/blog/mind-map-for-aws-investigations/
 - https://expel.io/blog/evilginx-into-cloud-detected-red-team-attack-in-aws/
+
+#### AWS
+- https://aws.amazon.com/security/security-learning/?nc=sn&loc=5&cards-top.sort-by=item.additionalFields.sortDate&cards-top.sort-order=desc&awsf.Types=*all
+- https://aws.amazon.com/blogs/security/?nc=sn&loc=7
 
 ### Books
 - AWS Certified Security Study Guide: Specialty (SCS-C01) Exam
