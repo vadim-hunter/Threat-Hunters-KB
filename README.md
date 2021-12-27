@@ -132,6 +132,7 @@ Useful Threat Hunting resources: blogs, books, trainings, people to follow, rese
 - https://www.netspi.com/training/dark-side-ops-azure-cloud-pentesting (NetSPI)
 - Breaching the Cloud (Beau Bullock @dafthack)
 - Azure Pentesting (INE)
+- Attacking and Defending Azure AD Cloud: Beginner's Edition (Nikhil Mittal, Pentester Academy)
 - Microsoft Azure - Beginner's Guide + AZ-900 (Alan Rodrigues, Udemy)
 - AZ-500 Microsoft Azure Security Exam Certification (Alan Rodrigues, Udemy)
 
